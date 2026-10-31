@@ -67,15 +67,15 @@ The repository follows a progressive learning approach.
 
 | Stage | Topics | Status |
 |---|---|---|
-| 01 | Introduction to C | 🔄 |
-| 02 | Variables and Data Types | 🔄 |
-| 03 | Operators and Expressions | 🔄 |
-| 04 | Conditional Statements | 🔄 |
-| 05 | Loops and Iteration | 🔄 |
-| 06 | Functions | 🔄 |
-| 07 | Arrays and Strings | 🔄 |
-| 08 | Pointers | 🔄 |
-| 09 | Structures and Unions | 🔄 |
+| 01 | Introduction to C | ✅ |
+| 02 | Variables and Data Types | ✅ |
+| 03 | Operators and Expressions | ✅ |
+| 04 | Conditional Statements | ✅ |
+| 05 | Loops and Iteration | ✅ |
+| 06 | Functions | ✅ |
+| 07 | Arrays and Strings | ✅ |
+| 08 | Pointers | ✅ |
+| 09 | Structures and Unions | ✅ |
 | 10 | Dynamic Memory Allocation | 🔄 |
 | 11 | File Handling | 🔄 |
 | 12 | Advanced C Concepts | 🔄 |
