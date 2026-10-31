@@ -163,14 +163,6 @@ Mastering fundamentals creates the foundation for more advanced areas of compute
 
 ---
 
-## 📈 Repository Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=king-of-hell-roronoazoro&repo=Learning-C&theme=tokyonight&hide_border=true" alt="Repository statistics" />
-
-</div>
-
 ## 🤝 Contributions
 
 This repository primarily documents an individual learning journey.
