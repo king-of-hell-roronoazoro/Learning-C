@@ -76,7 +76,7 @@ The repository follows a progressive learning approach.
 | 07 | Arrays and Strings | ✅ |
 | 08 | Pointers | ✅ |
 | 09 | Structures and Unions | ✅ |
-| 10 | Dynamic Memory Allocation | 🔄 |
+| 10 | Dynamic Memory Allocation | ✅ |
 | 11 | File Handling | 🔄 |
 | 12 | Advanced C Concepts | 🔄 |
 
