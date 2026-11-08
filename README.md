@@ -77,7 +77,7 @@ The repository follows a progressive learning approach.
 | 08 | Pointers | ✅ |
 | 09 | Structures and Unions | ✅ |
 | 10 | Dynamic Memory Allocation | ✅ |
-| 11 | File Handling | 🔄 |
+| 11 | File Handling | ✅ |
 | 12 | Advanced C Concepts | 🔄 |
 
 *Progress indicators will be updated as the repository evolves.*
